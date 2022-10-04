@@ -1,0 +1,4 @@
+os: linux
+dist: focal
+language: generic
+script: echo “Hello World!”
